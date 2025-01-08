@@ -1,0 +1,43 @@
+<style>
+
+      body {
+            font-familys: 'Georgia', sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: rgb(221, 200, 173);
+            color: rgb(221, 200, 173);
+            padding: 150px;
+            text-align: center;
+            background-image: url('header.jpg');
+            background-size: cover;
+            background-position: center;
+        }
+
+       nav {
+            background-color: #56a3e7cc;
+            padding: 10px;
+            text-align: center;
+        }
+
+       nav a {
+            color: rgb(0, 0, 0);
+            margin: 0 30pt;
+            text-decoration: underline;
+            font-style: Georgia;
+        }
+
+
+   .footer {
+            height: 30px;
+            background-color: rgb(221, 200, 173);
+            text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 30px;
+            color: #070707;
+        }
+</style>
